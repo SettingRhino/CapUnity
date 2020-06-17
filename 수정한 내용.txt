@@ -1,0 +1,13 @@
+1. 패키지명 org.tensorflow.demo -> org.tensorflow.ChoiEomParkLee
+2. camera_activity_xml 살짝 변경 -> 가용한 UI추가 및 불필요한 layout 삭제
+3. 탐구관 샘플 모델 적용해둠 + 테스트를 위해 임계값을 많이 낮춰둠(인식 잘되도록)
+4. 기존 gradle에서 안쓰는 일부 코드 삭제
+5. StartActivity 추가 ( textview , start_btn , test_btn ) , textView부분은 추후에 제목 담은 이미지로 대체하면 될듯
+6. detectotensoflow 뭐시기 파일에서 충돌이 생길수있는 부분 삭제. (프로젝트 진행할때 생길수있는 만약의 버그 수정이라고 보면됨)
+7. manifest파일에서의 패키지명 변환에 의한 몇몇 부분 수정
+
+++
+UI뷰 전반 수정 
+StartActivity ,InfoActivity,Fragment관련 java,xml모두 수정.
++맵기능추가.
+--코드내의 수정이라 딱히 오류날일 없음

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "372175962951",
+    "firebase_url": "https://capstone-db-56e12.firebaseio.com",
+    "project_id": "capstone-db-56e12",
+    "storage_bucket": "capstone-db-56e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372175962951:android:ccd8f6901acb805a068262",
+        "android_client_info": {
+          "package_name": "org.tensorflow.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372175962951-odsfq2k2l425ditr72l87hhko80gbg4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3SJoUlbB8KVrbAlCRxBfeygRctKVOFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372175962951-odsfq2k2l425ditr72l87hhko80gbg4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372175962951:android:f67c5eb53c19730f068262",
+        "android_client_info": {
+          "package_name": "june.tae.firebasejson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372175962951-odsfq2k2l425ditr72l87hhko80gbg4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3SJoUlbB8KVrbAlCRxBfeygRctKVOFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372175962951-odsfq2k2l425ditr72l87hhko80gbg4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
